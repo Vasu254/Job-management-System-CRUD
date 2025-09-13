@@ -10,7 +10,7 @@ export default function NavBar({ onOpen, onSearch}) {
         <div className="navbar bg-base-100 p-4">
         <div className="navbar-start">
            
-            <a className="btn btn-ghost text-xl">Clients</a>
+            <a className="btn btn-ghost text-xl">Job Details</a>
         </div>
         <div className="navbar-center">
             <div className="form-control">
@@ -18,7 +18,7 @@ export default function NavBar({ onOpen, onSearch}) {
             </div>
         </div>
         <div className="navbar-end">
-            <a className="btn btn-primary" onClick={onOpen}>Add Client</a>
+            <a className="btn btn-primary" onClick={onOpen}>Add Job Details</a>
         </div>
         </div>
         </>

@@ -52,7 +52,7 @@ export default function TableList({ handleOpen, tableData, setTableData , search
 
                 {filteredData.map((client) => (
                 <tr key={client.id}>
-                    <th>{client.id}</th>
+                    <td>{client.id}</td>
                     <td>{client.name}</td>
                     <td>{client.email}</td>
                     <td>{client.job}</td>
