@@ -1,6 +1,6 @@
-# Client Management System
+# Student JOb Management System
 
-A full-stack CRUD application for managing client details, including salary, job status (active/inactive), and other information. Built with React + Vite frontend and Node.js + Express backend, storing data in PostgreSQL.
+A full-stack CRUD application for managing student details, including salary, job status (active/inactive), and other information. Built with React + Vite frontend and Node.js + Express backend, storing data in PostgreSQL.
 
 ## Contents
 
